@@ -9,3 +9,17 @@ newArr = [];
  }
  return newArr;
 }
+
+
+// function askForMissingDetails(list) {
+//     return list.filter(function(a){
+//
+//       for(var key in a){
+//         if (a[key] === null){
+//           a['question'] = `Hi, could you please provide your ${key}.`;
+//           return a;
+//         }
+//       }
+//
+//     });
+// }
