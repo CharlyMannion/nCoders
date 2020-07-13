@@ -4,3 +4,5 @@ var repeatIt = function(str, n) {
   }
   return "Not a string";
 }
+
+// const repeatIt = (str,n) => typeof str == 'string' ? str.repeat(n) : 'Not a string'
